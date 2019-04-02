@@ -1,5 +1,10 @@
-# flavor-data
-data on flavor molecules from OpenAg experiments
+# Exploring OpenAg Flavor Data
+
+I wanted to explore how different conditions alter flavor compound development. 
+
+This is a nice dataset of flavor molecules from OpenAg - https://github.com/OpenAgInitiative/flavor-data
+
+From their Readme:
 
 we're manipulating environments and measuring the effects of those manipulations on flavor molecules.
 
